@@ -1,0 +1,11 @@
+{
+  "name": "cybera-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix cybera run dev",
+    "build": "npm --prefix cybera run build",
+    "bulid": "npm run build",
+    "lint": "npm --prefix cybera run lint",
+    "preview": "npm --prefix cybera run preview"
+  }
+}
